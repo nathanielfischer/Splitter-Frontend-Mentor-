@@ -43,7 +43,7 @@ Users should be able to:
 
 ### What I learned
 
-I've got a better understanding of jQuery and basic HTML / CSS.
+I've got a better understanding of jQuery, client side JavaScript and basic HTML / CSS.
 
 ## Author
 
